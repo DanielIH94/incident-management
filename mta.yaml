@@ -75,7 +75,7 @@ modules:
     build-result: dist
     builder: custom
     commands:
-    - npm install
+    - npm install --production
     - npm run build:cf
     supported-platforms: []
 resources:
