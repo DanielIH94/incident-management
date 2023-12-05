@@ -136,7 +136,7 @@ annotate service.Incidents with @(
             $Type : 'UI.DataField',
             Value : customer.name,
         },
-        TypeImageUrl : 'sap-icon://alert',
+        TypeImageUrl : 'sap-icon://accelerated',
     }
 );
 annotate service.Incidents with @(
